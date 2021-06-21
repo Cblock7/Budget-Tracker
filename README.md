@@ -2,6 +2,8 @@
 ## Description 
 > This application allows you to create a budget and add transactions that will update a chart of your spending/earning. 
 
+![](/public/SS1.JPG)
+
 ## Table of Contents 
 1. [Installation](#installation) 
 2. [Usage](#usage) 
